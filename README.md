@@ -33,9 +33,11 @@
   #### :pencil2: Study log
  
   <br/>
-  
+<a href="https://github.com/hosekwak"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hosekwak&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,000000,588beb&title_color=fff&text_color=fff" alt="hose's GitHub Status" /></a>  <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosekwak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <br/>
+ 
 
 </div>
     
