@@ -37,6 +37,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosekwak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hosekwak&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hosekwak"
+  width="600"
+  height="300"
+/>
+</a>
  
 
 </div>
