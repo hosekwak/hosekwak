@@ -50,9 +50,14 @@ Hello! I'm Hose, a passionate developer who loves coding and exploring new techn
 ### 🎉 Fun Section
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hosekwak&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/hosekwak" width="600" height="300"/>
-  </a>
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/669361584026746551/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 </div>
 
 ---
