@@ -12,7 +12,7 @@
 ####  :clipboard: Once I've Used 
   
  <br/>
-
+<img src="https://img.shields.io/badge/mcdonalds-FBC817?style=for-the-badge&logo=mcdonalds&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
