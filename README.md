@@ -49,8 +49,7 @@ Hello! I'm Hose, a passionate developer who loves coding and exploring new techn
 
 ### 🎉 Fun Section
 
-<div align="center">
-  <a href="https://www.gitanimals.org/">
+<a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/669361584026746551/draw"
         width="600"
@@ -58,7 +57,6 @@ Hello! I'm Hose, a passionate developer who loves coding and exploring new techn
         alt="gitanimals"
       />
     </a>
-</div>
 
 ---
 
