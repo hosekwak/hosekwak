@@ -25,11 +25,14 @@ Hello! I'm Hose, a passionate developer who loves coding and exploring new techn
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src ="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=black">
+<img src ="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=black">
 
 #### IDEs
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
   
 </div>
 
