@@ -22,12 +22,13 @@ Hello! I'm Hose, a passionate developer who loves coding and exploring new techn
 #### Tools & Platforms
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src ="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=black">
 <img src ="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=black">
 <img src ="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black">
+<img src ="https://img.shields.io/badge/openstack-ED1944?style=for-the-badge&logo=openstack&logoColor=white">
 
 #### IDEs
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
