@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](./profile/banner.png)
+![banner](./banner_1.png)
 
 
 클라우드 인프라와 백엔드 서비스를 설계하고, 장애를 가정해 수치로 검증하는 걸 좋아합니다.<br>
