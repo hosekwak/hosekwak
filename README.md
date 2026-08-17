@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Hose&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![banner](./profile/banner.png)
 
 
 클라우드 인프라와 백엔드 서비스를 설계하고, 장애를 가정해 수치로 검증하는 걸 좋아합니다.<br>
@@ -136,20 +136,6 @@ Hugging Face `lerobot` 기반 로봇 팔 원격조작 시스템 개발
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-
-</div>
-
----
-
-### 📊 GitHub Status
-
-<div align="center">
-
-<a href="https://github.com/hosekwak">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hosekwak&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,000000,ffffff&title_color=fff&text_color=fff&icon_color=fff" alt="hose's GitHub Status" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosekwak&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
