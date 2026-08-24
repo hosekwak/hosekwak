@@ -144,6 +144,7 @@ Hugging Face `lerobot` 기반 로봇 팔 원격조작 시스템 개발
 ### 📫 Contact Me
 
 - **Email**: [rhkrghtp123@gmail.com](mailto:rhkrghtp123@gmail.com)
+- **Blog**: [podol2961.tistory.com](https://podol2961.tistory.com)
 - **GitHub**: [github.com/hosekwak](https://github.com/hosekwak)
 - **LinkedIn**: [linkedin.com/in/hosekwak](https://linkedin.com/in/hosekwak)
 
